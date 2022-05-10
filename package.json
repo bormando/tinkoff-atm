@@ -1,0 +1,16 @@
+{
+  "name": "tinkoff-atm",
+  "version": "1.0.0",
+  "description": "Telegram bot notifications for Tinkoff ATMs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dmitrii Bormotov",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
